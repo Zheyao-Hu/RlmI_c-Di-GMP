@@ -1,0 +1,2 @@
+This folder contains the files (MD input files, parameter files, topology files etc) for molecular dynamics simulations of the "7 c-Di-GMP+RlmI" in the water box
+Construct platform: "CHARMM-GUI Multicomponent Assembler" (https://charmm-gui.org/?doc=input/multicomp)
