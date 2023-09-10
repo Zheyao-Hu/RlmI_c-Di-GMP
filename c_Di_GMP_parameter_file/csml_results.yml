@@ -1,0 +1,15 @@
+---
+exact: [ ]
+iso: [ ]
+proto: [ ]
+simi:
+  GDP: 0.46
+  GTP: 0.46
+  GTPG: 0.46
+  GTSS: 0.46
+  ADP: 0.42
+  GMP: 0.42
+  ATP: 0.42
+  GTGN: 0.41
+  GTNS: 0.41
+  NADE: 0.40
