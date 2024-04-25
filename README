@@ -1,1 +1,8 @@
 This address is used to store relevant documents related to cooperation with Dr. Zhaowei
+
+1）Folder “c_Di_GMP_parameter_file" stores c-di-GMP parameter files
+
+2) Folder “Crystal_structure" stores the crystal structure (3c0k.pdb) of rRNA methyltransferases. This pdb file get from "PDB bank"(https://www.rcsb.org)
+
+3) Folder “7c-Di-GMP+Rlml_in_water_box" stores the files (MD input files, parameter files, topology files etc) for molecular dynamics simulations of the "7 c-Di-GMP+RlmI" in the water box
+Construct platform: "CHARMM-GUI Multicomponent Assembler" (https://charmm-gui.org/?doc=input/multicomp)
