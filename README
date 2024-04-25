@@ -6,3 +6,5 @@ This address is used to store relevant documents related to cooperation with Dr.
 
 3) Folder “7c-Di-GMP+Rlml_in_water_box" stores the files (MD input files, parameter files, topology files etc) for molecular dynamics simulations of the "7 c-Di-GMP+RlmI" in the water box
 Construct platform: "CHARMM-GUI Multicomponent Assembler" (https://charmm-gui.org/?doc=input/multicomp)
+
+4) Folder "Figure4B", the pdb file in this folder corresponds to Figure4B
